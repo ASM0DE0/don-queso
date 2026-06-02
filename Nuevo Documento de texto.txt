@@ -1,0 +1,195 @@
+Crea una página web moderna, elegante e interactiva para una empresa de venta de quesos, cecinas y alimentos congelados llamada “Don Queso”.
+
+La web debe tener un diseño profesional orientado a aumentar ventas y pedidos por WhatsApp, con excelente experiencia de usuario, animaciones suaves y compatibilidad total con dispositivos móviles (responsive design).
+
+INFORMACIÓN DEL NEGOCIO:
+
+Nombre del negocio:
+Don Queso
+
+Descripción:
+Especialistas en la venta mayorista y al detalle de los mejores productos para tu negocio y tu hogar. Con más de 15 años de experiencia, ofrecemos quesos de calidad, congelados, cecinas y una amplia variedad de alimentos preparados.
+
+Ubicación:
+Oriente 14 Sur 1490, Talca, Chile
+
+Teléfono / WhatsApp:
++56 9 6696 1713
+
+Redes sociales:
+Facebook:
+https://www.facebook.com/p/Don-Queso-Talca-61580454445879/
+
+La IA debe investigar automáticamente desde el Facebook para obtener:
+
+* productos
+* precios
+* nombres comerciales
+* imágenes de referencia
+* tipos de quesos
+* cecinas
+* congelados
+* promociones
+
+OBJETIVO DE LA WEB:
+
+* Mostrar productos y precios
+* Generar pedidos rápidos por WhatsApp
+* Dar confianza y aspecto profesional
+* Mostrar experiencia del negocio
+* Facilitar contacto desde móviles
+
+DISEÑO Y ESTILO:
+
+* Diseño moderno tipo ecommerce premium
+* Colores relacionados a comida:
+
+  * amarillo queso
+  * blanco crema
+  * rojo suave
+  * tonos madera
+* Animaciones suaves
+* Hover effects modernos
+* Tarjetas de productos interactivas
+* Botones flotantes de WhatsApp
+* Scroll animations
+* Secciones bien separadas
+* Diseño limpio y minimalista
+
+SECCIONES DE LA WEB:
+
+1. HERO SECTION
+
+* Imagen grande de quesos y cecinas
+* Texto llamativo
+* Botón “Pedir por WhatsApp”
+* Frase destacada:
+  “Más de 15 años entregando calidad y sabor en Talca”
+
+2. PRODUCTOS
+   Categorías:
+
+* Quesos
+* Cecinas
+* Congelados
+* Alimentos preparados
+
+Cada producto debe incluir:
+
+* imagen
+* nombre
+* precio
+* descripción corta
+* botón de pedir por WhatsApp
+
+3. NOSOTROS
+
+* Historia del negocio
+* Experiencia
+* Calidad de productos
+* Atención mayorista y detalle
+
+4. BENEFICIOS
+   Mostrar iconos modernos:
+
+* Calidad garantizada
+* Atención rápida
+* Pedidos por WhatsApp
+* Productos frescos
+* Atención mayorista
+
+5. GALERÍA
+
+* Fotos modernas de productos
+* Diseño tipo masonry/grid responsive
+
+6. TESTIMONIOS
+
+* Opiniones simuladas realistas de clientes
+
+7. CONTACTO
+
+* Mapa integrado
+* Dirección
+* Teléfono
+* WhatsApp
+* Facebook
+* Horario
+* Botón flotante de contacto
+
+8. FOOTER
+
+* Redes sociales
+* Información de contacto
+* Derechos reservados
+
+FUNCIONALIDADES IMPORTANTES:
+
+* Integración directa a WhatsApp
+* Cada producto debe abrir un mensaje automático:
+  “Hola, quiero pedir este producto…”
+* Responsive completo
+* Optimización SEO
+* Carga rápida
+* Diseño moderno 2026
+* Compatible con Vite + React + Tailwind
+* Código limpio y organizado
+* Buenas prácticas de desarrollo
+
+TECNOLOGÍAS:
+
+* React
+* TypeScript
+* Vite
+* TailwindCSS
+* Framer Motion
+* React Icons
+
+ESTRUCTURA DEL PROYECTO:
+La estructura del código debe quedar organizada similar a:
+
+.vscode
+public
+scripts
+src
+components
+sections
+pages
+hooks
+lib
+assets
+styles
+supabase
+
+.env.example
+.gitignore
+COMO-EJECUTAR.md
+README.md
+eslint.config.js
+index.html
+iniciar.bat
+package-lock.json
+package.json
+postcss.config.js
+tailwind.config.js
+tsconfig.app.json
+tsconfig.json
+tsconfig.node.json
+vite.config.ts
+
+REQUISITOS EXTRA:
+
+* Crear componentes reutilizables
+* Código modular
+* Comentarios importantes
+* Optimización mobile-first
+* Navbar moderno con menú hamburguesa
+* Efecto sticky navbar
+* Lazy loading de imágenes
+* Animaciones suaves con Framer Motion
+* Cards modernas con sombras y bordes redondeados
+* SEO local para Talca, Chile
+* Incluir favicon y branding visual
+
+IMPORTANTE:
+La web debe verse como una marca profesional y moderna de alimentos premium, enfocada en generar confianza y aumentar pedidos desde teléfonos móviles.
